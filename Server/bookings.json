@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Naman Sharma",
+    "totalGuests": 4,
+    "phoneNo": 9682133002,
+    "email": "namansharma3007@gmail.com",
+    "adhaarCard": 1234567890,
+    "address": "Jammu and kashmir",
+    "from": "2023-03-13",
+    "till": "2023-03-13",
+    "time": "00:37",
+    "totalAmount": 400,
+    "rooms": ["A1", "B1"]
+  }
+]

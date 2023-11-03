@@ -1,0 +1,11 @@
+.icon-image{
+    width: 25px;
+    height: 25px;
+}
+
+.nav-icon-name{
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HillsideHaven/static/css/main.d9618853.css",
+    "main.js": "/HillsideHaven/static/js/main.c3f70c79.js",
+    "index.html": "/HillsideHaven/index.html",
+    "main.d9618853.css.map": "/HillsideHaven/static/css/main.d9618853.css.map",
+    "main.c3f70c79.js.map": "/HillsideHaven/static/js/main.c3f70c79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9618853.css",
+    "static/js/main.c3f70c79.js"
+  ]
+}

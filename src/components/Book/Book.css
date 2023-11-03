@@ -1,0 +1,102 @@
+
+.check-rooms{
+    display: flex;
+    gap: 0.3rem;
+    flex-wrap: wrap;
+}
+
+.room-type{
+    display: flex;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: max-content;
+    cursor: pointer;
+    gap: 0.5rem;
+}
+
+.A {
+    background: #dc3545;
+}
+
+.B {
+    background: #52ca6e;
+}
+
+.C {
+    background: #5f9fe4;
+}
+
+
+.card-display{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-display > ul{
+    width: 100%;
+}
+
+.btn-final-submit{
+    width: max-content;
+    margin: 20px;
+    
+}
+
+.filter-select{
+    display: flex;
+}
+
+.time-container{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.time-container > label{
+    display: flex;
+    gap: 1rem;
+}
+
+.form-details-fill{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f5f4f4;
+}
+
+.btn-X-booking{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    scale: 0.7;
+}
+
+
+.btn-X-pay{
+    scale: 0.6;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.payment-display-total{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 15px;
+}
+
+.btn-check-details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 1px;
+}

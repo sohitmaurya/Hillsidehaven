@@ -1,0 +1,70 @@
+.details-container{
+    display: flex;
+    gap: 2rem;
+    margin-top: 5px;
+    flex-wrap: wrap;
+}
+
+.details-booking{
+    height: 80px;
+    background-color: orange;
+    width: max-content;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    transition: all 400ms ease;
+    cursor: pointer;
+    font-weight: 600;
+}
+.details-booking:hover{
+    scale: 1.07;
+}
+
+.total-rooms{
+    background-color: #17a2b8;
+    
+}
+.rooms-available{
+    background-color: #dc3545;
+}
+.booked-rooms{
+    background-color: #007bff;
+}
+.total-amount{
+    background-color: #28a745;
+}
+
+.show-booking-details{
+    display: flex;
+    flex-direction: column;
+}
+
+.list-group-item-home > div{
+    display: flex;
+    border-radius: 5px;
+    padding: 7px 9px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.filter-select{
+   display: flex;
+   height: max-content;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   justify-self: baseline;
+   gap: 0.8rem;
+   flex-wrap: wrap;
+}
+
+.filter-select > select{
+    width: 200px;
+    height: max-content;
+}
+
+.btn-reset-filters{
+    height: max-content;
+}

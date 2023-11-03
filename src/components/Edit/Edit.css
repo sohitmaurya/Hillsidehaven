@@ -1,0 +1,33 @@
+
+.list-group-item-edit > div{
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 7px 9px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.modal{
+    z-index: 2;
+}
+
+.btn-edit-details{
+    height: max-content;
+    width: max-content;
+    min-width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.details{
+    position: relative;
+}
+
+.btn-X{
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    scale: 0.9;
+}

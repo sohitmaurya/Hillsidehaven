@@ -1,0 +1,43 @@
+.list-group-item-cancel > div{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding: 7px 9px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.buttons-cancel-yes{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn-cancel{
+    height: max-content;
+    width: max-content;
+    min-width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-penalty-display{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.btn-X-cancel-payment{
+    scale: 0.8;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.payment-penalty{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 20px;
+}

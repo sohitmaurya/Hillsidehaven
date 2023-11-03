@@ -1,0 +1,16 @@
+.checkout-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  
+}
+
+.button-checkout-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-checkout{
+    width: max-content;
+}

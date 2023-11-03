@@ -1,0 +1,26 @@
+.aside-buttons-pay{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+.select-mail-dropdown-refund{
+    width: max-content;
+}
+
+.form-refund-pay{
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+}
+
+.refund-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 12px;
+}
