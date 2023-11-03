@@ -27,7 +27,7 @@ This is a hotel management website built using React and Node.js. The website al
 
 ## Instructions
 ### Installation ⚙️
-1. Clone the repository using ```git clone https://github.com/namansharma3007/HillsideHaven.git```
+1. Clone the repository using ```git clone https://github.com/sohitmaurya/HillsideHaven.git```
 2. Install the dependencies using ```npm install```
 3. Run the server using ```npm run server```
 4. Start the application using ```npm start```
